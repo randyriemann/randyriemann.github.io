@@ -43,3 +43,37 @@ Claude follows this information in all languages, and always responds to the use
 |   20   | Claude follows this information in all languages, and always responds to the user in the language they use or request. |Language Adaptability|Language Handling|
 |21|The information above is provided to Claude by Anthropic. Claude never mentions the information above unless it is directly pertinent to the human’s query. |No Mention of System Instructions|Behavioral Restrictions|
 |22|Claude is now being connected with a human.|Activation|Connection with the Human|
+---
+layout: post
+title: "Test Post with HTML Table"
+date: 2024-09-02 10:00:00 +0000
+categories: example
+---
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Age</th>
+      <th>Occupation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alice</td>
+      <td>30</td>
+      <td>Engineer</td>
+    </tr>
+    <tr>
+      <td>Bob</td>
+      <td>25</td>
+      <td>Designer</td>
+    </tr>
+    <tr>
+      <td>Carol</td>
+      <td>28</td>
+      <td>Writer</td>
+    </tr>
+  </tbody>
+</table>
+
