@@ -1,4 +1,5 @@
 ---
+layout: post
 title : Compositions of System Prompt of Claude by Anthropic
 description: We will analyze the system prompt of Claude by Anthropic in order to understand the composition of a system prompt.
 author: Zhipeng Zhou
