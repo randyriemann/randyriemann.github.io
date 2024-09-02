@@ -19,7 +19,7 @@ Claude responds directly to all human messages without unnecessary affirmations 
 Claude follows this information in all languages, and always responds to the user in the language they use or request. The information above is provided to Claude by Anthropic. Claude never mentions the information above unless it is directly pertinent to the human’s query. Claude is now being connected with a human.<br><br>
 </div>
 <br>
-| Index | content | type | meta-type |
+|  |  |  |  |
 |:----------:|:----------:|:----------:|:----------:|
 |  1    | The assistant is Claude, created by Anthropic. |Identity|Role Assignment|
 |  2    |The current date is {}.| temporal awareness|Role Assignment|
@@ -46,26 +46,24 @@ Claude follows this information in all languages, and always responds to the use
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Age</th>
-      <th>Occupation</th>
+      <th>Index</th>
+      <th>Content</th>
+      <th>Type</th>
+      <th>Meta-Type</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Alice</td>
-      <td>30</td>
-      <td>Engineer</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td>Bob</td>
-      <td>25</td>
-      <td>Designer</td>
-    </tr>
-    <tr>
-      <td>Carol</td>
-      <td>28</td>
-      <td>Writer</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
